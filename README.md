@@ -10,6 +10,7 @@ In this project I am trying to scrape the Bitcoin.com website and download vario
 Bitcoin Core (BTC) Price, Market Capitalisation, Price Volatility, Daily Transactions,Transaction Value,Total Transactions,Fee Percentage , Transaction Amount, Hash Rate, Transaction Fees, Miner Revenue, Inflation Rate, Transaction Size, Output Volume, Velocity of Money
 I also considered other external factors like price of gold and S&P prices so that we know how the market is trending.
 
+
 ## Feature Scaling 
 First I performed data cleaning and then normalised the data so that we are not effected by the scale of the data points as we know bitcoin is very volatile.
 
