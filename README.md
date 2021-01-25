@@ -1,4 +1,4 @@
-# Bitcoin_Price_Prediction
+# Multivariate Multi Step Time Series modelling using GRU 
 Predicting the re-rise of bitcoin prices using Recurrent Neural Networks and optimising the model using GRU and dropout layers. 
 ## Objective 
 Objective of the project was to build a bitcoin price prediction model.
