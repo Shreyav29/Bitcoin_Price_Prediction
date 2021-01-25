@@ -1,4 +1,4 @@
-# Multivariate Multi Step Time Series modelling using GRU 
+# Multivariate Multi Step Time Series modelling using GRU layer and recurrent dropout
 Predicting the re-rise of bitcoin prices using Recurrent Neural Networks and optimising the model using GRU and dropout layers. 
 ## Objective 
 Objective of the project was to build a bitcoin price prediction model.
