@@ -3,6 +3,7 @@ Predicting the re-rise of bitcoin prices using Recurrent Neural Networks and opt
 ## Objective 
 Objective of the project was to build a bitcoin price prediction model.
 
+
 ## Data Collection  
 ### Web Scraping Bitcoin.com using Selenium and Python
 In this project I am trying to scrape the Bitcoin.com website and download various parameters belonging to the Bitcoin cryptocurrency. I am going to use this data in a bitcoin price prediction project later.
