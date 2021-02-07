@@ -5,7 +5,7 @@ Objective of the project was to build a bitcoin price prediction model.
 
 
 ## Data Collection  
-### Web Scraping Bitcoin.com using Selenium and Python
+### Web Scraping Bitcoin.com using Selenium and Python : https://github.com/Shreyav29/WebScrapingBitcoin.com
 In this project I am trying to scrape the Bitcoin.com website and download various parameters belonging to the Bitcoin cryptocurrency. I am going to use this data in a bitcoin price prediction project later.
 <img src= "Plots/btc_price.png"  width = '700'>
 
