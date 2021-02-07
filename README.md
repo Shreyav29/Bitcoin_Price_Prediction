@@ -25,9 +25,9 @@ As this is the sequence model. I assumed the past 28 days of data would be affec
 ### Simple Neural Network 
 Even though this is a sequential model , just to test , I started off with a simple 2 dense later NN where I flattened the data to get the vectorised outputs.
 
-<img src= "Plots/loss_base.png"  width = '700'>
+<img src= "Plots/loss_base.png"  width = '700'> <img src= "Plots/sim_base.png"  width = '700'>
 
-<img src= "Plots/sim_base.png"  width = '700'>
+
 
 ### RNN model with LSTM layer vs GRU Layer 
 Then I moved on to implement a simple RNN with a LSTM hidden layer and a GRU hidden layer. We found that GRU was giving a better
