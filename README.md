@@ -15,6 +15,7 @@ I also considered other external factors like price of gold and S&P prices so th
 
 <img src= "Plots/corr.png"  width = '700'>
 
+
 ## Feature Scaling 
 First I performed data cleaning and then normalised the data so that we are not effected by the scale of the data points as we know bitcoin is very volatile.
 
